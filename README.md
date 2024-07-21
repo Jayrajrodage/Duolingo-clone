@@ -7,9 +7,19 @@
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/Jayrajrodage/Duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage/Duolingo-clone/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage/Duolingo-clone/commits/main "Maintenance")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage/Duolingo-clone/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage/Duolingo-clone/pulls "GitHub pull requests")
 [![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lingo-clone.vercel.app/ "Vercel status")
 
 <!-- Table of Contents -->
-<details>
+## :camera: Screenshots
+
+![Courses](/.github/images/img1.png "Courses")
+
+![Learn](/.github/images/img2.png "Learn")
+
+![Quiz](/.github/images/img3.png "Quiz")
+
+![Leaderboard](/.github/images/img4.png "Leaderboard")
+
+![Quest](/.github/images/img5.png "Quest")
+
+![Shop](/.github/images/img6.png "Shop")
