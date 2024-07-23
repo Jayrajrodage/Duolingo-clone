@@ -1,7 +1,7 @@
 import { Header } from "@/components/Header";
 import { Sidebar } from "@/components/Sidebar/Sidebar";
-import { Avatar, AvatarImage } from "@/components/ui/avatar";
-import { Separator } from "@/components/ui/separator";
+import { Avatar, AvatarImage } from "../components/ui/avatar";
+import { Separator } from "../components/ui/separator";
 import useGetTopTenUsers from "@/hooks/User/useGetTopUsers";
 import usePurchase from "@/hooks/User/usePurchase";
 import { IonContent, IonImg, IonPage } from "@ionic/react";
