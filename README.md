@@ -10,6 +10,22 @@
 [![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lingo-clone.vercel.app/ "Vercel status")
 
 <!-- Table of Contents -->
+## 📹: Demo
+
+https://github.com/user-attachments/assets/9b63aded-5bef-42a0-8a5b-1fd519b30685
+
+https://github.com/user-attachments/assets/9c130c20-de9d-4b60-80c4-4e217b2d9171
+
+## Technologies Used
+  - React.js
+  - TypeScript
+  - Ionic Framework
+  - Capacitor js
+  - Tailwind CSS
+  - Clerk
+  - Supabaase
+
+
 ## :camera: Screenshots
 
 ![Courses](/.github/images/img1.png "Courses")
