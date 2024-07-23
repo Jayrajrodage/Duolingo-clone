@@ -2,7 +2,7 @@
 
 # Interactive platform for language learning.
 
-![Lingo - Interactive platform for language learning.](/.github/images/image_main.png "Lingo - Interactive platform for language learning.")
+![Lingo - Interactive platform for language learning.](/.github/images/image_main.png "Interactive platform for language learning.")
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/Jayrajrodage/Duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage/Duolingo-clone/blob/main/LICENSE "GitHub license")
