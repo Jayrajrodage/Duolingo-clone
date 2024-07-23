@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/9c130c20-de9d-4b60-80c4-4e217b2d9171
   - Capacitor js
   - Tailwind CSS
   - Clerk
-  - Supabaase
+  - Supabase
 
 
 ## :camera: Screenshots
