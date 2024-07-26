@@ -7,7 +7,7 @@
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/Jayrajrodage/Duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage/Duolingo-clone/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Jayrajrodage/Duolingo-clone/commits/main "Maintenance")
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lingo-clone.vercel.app/ "Vercel status")
+[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://duolingo-clone-jayraj.vercel.app "Vercel status")
 
 <!-- Table of Contents -->
 ## 📹: Demo
